@@ -1,5 +1,9 @@
 # ANN - Artificial Neural Network
 
+[**Chi tiết bài viết**](...)
+
+**Dưới đây là tóm tắt lí thuyết**
+
 ## 1. Giới thiệu
 + Các neuron sinh học nhận các xung điện ngắn (short electrical impulses) gọi là tín hiệu (signal) từ các neuron khác thông qua các khớp thần kinh (synapses) này. Khi một neuron nhận đủ số lượng tín hiệu từ các tế bào thần kinh khác trong vòng vài phần nghìn giây, nó phát ra tín hiệu riêng của nó.
 + Vì vậy, các tế bào thần kinh sinh học (biological neurons) có vẻ hoạt động theo một cách khá đơn giản, nhưng chúng được tổ chức trong một mạng lưới khổng lồ hàng tỷ tế bào thần kinh, mỗi tế bào thần kinh thường kết nối với hàng nghìn tế bào thần kinh khác. Tính toán phức tạp cao có thể được thực hiện bởi một mạng lưới rộng lớn các neuron khác đơn giản.
