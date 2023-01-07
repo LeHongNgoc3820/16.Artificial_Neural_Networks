@@ -14,7 +14,7 @@
 + Mạng thần kinh nhân tạo (ANN) hoặc hệ thống kết nối (connectionist systems) là hệ thống máy tính lấy cảm hứng từ mạng thần kinh sinh học tạo thành bộ não động vật.
 + Bản thân mạng neuron không phải là một thuật toán mà là một khuôn khổ cho nhiều thuật toán Machine Learning khác nhau làm việc cùng nhau và xử lý các dữ liệu đầu vào phức tạp.
 + Các hệ thống như vậy "học" để thực hiện các công việc (task) bằng cách xem xét các mẫu, thường không được lập trình với bất kỳ quy tắc cụ thể nào.
-> Ví dụ, trong nhận dạng hình ảnh (image recognition), nó có thể học cách xác định hình ảnh có chứa "cat" bằng cách phân tích các mẫu hình ảnh đã được gắn nhãn thủ công là "cat" hoặc "no cat" và sử dụng kết quả để xác định có "cat" hay không trong các hình ảnh. Chúng làm điều này mà không cần có bất kỳ kiến thức nào trước về "cat", ví dụ như: mèo có lông, đuôi, râu và khuôn mặt giống như con mèo. Thay vào đó, chúng tự động tạo ra các đặc điểm nhận dạng từ tài liệu học tập mà chúng xử lý.
+> **Ví dụ**, trong nhận dạng hình ảnh (image recognition), nó có thể học cách xác định hình ảnh có chứa "cat" bằng cách phân tích các mẫu hình ảnh đã được gắn nhãn thủ công là "cat" hoặc "no cat" và sử dụng kết quả để xác định có "cat" hay không trong các hình ảnh. Chúng làm điều này mà không cần có bất kỳ kiến thức nào trước về "cat", ví dụ như: mèo có lông, đuôi, râu và khuôn mặt giống như con mèo. Thay vào đó, chúng tự động tạo ra các đặc điểm nhận dạng từ tài liệu học tập mà chúng xử lý.
 
 + ANN dựa trên một tập hợp các đơn vị (unit) kết nối hoặc các nút (node) được gọi là neuron nhân tạo (artificial neurons), mô hình lỏng lẻo các tế bào thần kinh trong não sinh học.
 + Mỗi kết nối, giống như các khớp thần kinh (synapses) trong não sinh học (biological brain), có thể truyền tín hiệu từ một neuron nhân tạo này sang một neuron nhân tạo khác.
@@ -33,5 +33,5 @@
 
 ### 2.3 Ứng dụng
 + Mục tiêu ban đầu của phương pháp ANN là giải quyết vấn đề theo cách mà bộ não con người sẽ làm. Tuy nhiên, theo thời gian, ANN chuyển sang thực hiện các nhiệm vụ cụ thể khác nhau, dẫn đến sai lệch so với sinh học.
-+ ANN đã được sử dụng trên nhiều nhiệm vụ khác nhau, bao gồm computer vision, speech recognition, machine translation, social network filtering, playing boảd & video games, medical diagnosis.
++ ANN đã được sử dụng trên nhiều nhiệm vụ khác nhau, bao gồm computer vision, speech recognition, machine translation, social network filtering, playing board & video games, medical diagnosis.
 + ...
